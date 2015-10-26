@@ -1,0 +1,12 @@
+//8_Grassy green-knees----------------------------------------------------------- 
+BIND SHIFT+H "say /X-Forage, SHIFT+X-Veggies, CTRL+X-Resources, ALT+X-Berries, C-Botanize, SHIFT+C-Seeds, CTRL+C-Herbs, ALT+C-Resources, V-Pick flower, B-Trim. 
+BIND X FORAGE 
+BIND SHIFT+X FORAGE_VEG 
+BIND CTRL+X FORAGE_RESOURCE 
+BIND ALT+X FORAGE_BERRIES 
+BIND C BOTANIZE 
+BIND SHIFT+C BOTANIZE_SEEDS 
+BIND CTRL+C BOTANIZE_HERBS 
+BIND ALT+C BOTANIZE_RESOURCE 
+BIND V PICK_FLOWERS 
+BIND B TRIM

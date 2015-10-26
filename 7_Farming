@@ -1,0 +1,14 @@
+//7_Farming---------------------------------------------------------------------- 
+BIND SHIFT+H "say /I'm done labeling all of these.. -brain melting down- 
+BIND CTRL+V SOW 
+BIND SHIFT+V HARVEST 
+BIND SHIFT+C GROOM 
+BIND V FARM 
+BIND SHIFT+V HARVEST 
+BIND X LEAD 
+BIND SHIFT+X STOP_LEADING 
+BIND C FEED 
+BIND CTRL+ALT+V CULTIVATE 
+BIND CTRL+ALT+X SHEAR 
+BIND ALT+X BREED 
+BIND CTRL+X TAME

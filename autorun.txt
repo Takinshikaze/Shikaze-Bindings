@@ -8,7 +8,7 @@
 
 //Press SHIFT+H for the control keys and ALT+H for the master list.
 
-//Default----------------------------------------------------------------------
+//Default---------------------------------------------------------------------
 
 BIND CTRL+S "say /sleep"
 
